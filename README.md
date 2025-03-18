@@ -25,9 +25,9 @@ This project aims to develop an **autonomous tank platform capable of rapid resp
 ✅ **Fire Suppression Mechanism**: Integrated **water spray or chemical fire suppression system**.  
 
 ##  Images
-![Project Image 1](images/photo1.jpeg)
-![Project Image 2](images/photo2.jpeg)
-![Project Image 3](images/photo3.jpeg)
+<img src="images/photo1.jpeg" alt="Project Image 1" width="300"/>
+<img src="images/photo2.jpeg" alt="Project Image 2" width="300"/>
+<img src="images/photo3.jpeg" alt="Project Image 3" width="300"/>
 
 ##  Contribute
 To contribute to this project, you can create a **pull request** or open an **issue** with your suggestions.
