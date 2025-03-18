@@ -7,7 +7,7 @@ This project aims to develop an **autonomous tank platform capable of rapid resp
 - **Battery**: Powered by three **18650 lithium-ion batteries** with a total capacity of **7500mAh**.
 - **Raspberry Pi 5** (Main control unit)
 - **Camera Module** (Fire detection and environmental analysis)
-- **GPS Module** (Location tracking and target navigation)
+- **GPS Module** (SIM808 for location tracking and target navigation)
 - **Motor Driver and DC Motors** (Tank movement mechanism)
 - **Sensors** (Fire detection, temperature, and smoke sensors)
 - **Artificial Intelligence** (Fire detection through image processing)
