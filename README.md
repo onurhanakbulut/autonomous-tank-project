@@ -1,6 +1,8 @@
 # 🔥 Autonomous Firefighting Tank
 
 ##  Project Description
+🚧 **This project is currently under development and not yet completed.** 🚧
+
 This project aims to develop an **autonomous tank platform capable of rapid response to fires**. The tank is equipped with a **camera module, GPS, motors, and fire detection sensors**. Within the scope of the project, the tank will **detect fires in forested areas and move to the target location based on provided coordinates to intervene**.
 
 ##  Technologies Used
